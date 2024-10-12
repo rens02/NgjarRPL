@@ -467,3 +467,18 @@ public class MahasiswaApp implements ApplicationRunner {
 }
 
 ```
+
+## Langkah 10
+Langkah terakhir adalah membuat file baru berjudul application.properties pada resources dengan isi dibawah
+```properties
+# Konfigurasi MySQL Hibernate
+spring.datasource.url=jdbc:mysql://localhost:3306/NAMA_DATABASE_YANGG_DIGUNAKAN?useSSL=false&serverTimezone=UTC
+spring.datasource.username=root
+spring.datasource.password=
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+
+# Hibernate settings
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+```
+sesuaikan nama database sesuai dengan database yang dibuat
