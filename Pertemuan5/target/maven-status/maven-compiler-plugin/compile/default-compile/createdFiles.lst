@@ -1,0 +1,4 @@
+com\mahasiswa\model\ModelMahasiswa.class
+com\mahasiswa\repository\MahasiswaRepository.class
+com\mahasiswa\Pertemuan5SpringBootApp.class
+com\mahasiswa\controller\MahasiswaController.class
