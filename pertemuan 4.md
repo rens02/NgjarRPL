@@ -66,7 +66,7 @@ trus buat Constructor
 ```
 **Masukkan Notasi Hibernate dan Buat constructor kosong untuk ORM nya**
 ```java
-    package com.mahasiswa.model;
+package com.mahasiswa.model;
 
 import jakarta.persistence.*;
 
