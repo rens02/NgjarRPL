@@ -188,9 +188,9 @@ public class HibernateUtil {
 ## Langkah 3
 pada `MahasiswaController.java`(interface nya)
 ```java
-package org.mahasiswa.controller;
+package com.mahasiswa.controller;
 
-import org.mahasiswa.model.ModelMahasiswa;
+import com.mahasiswa.model.ModelMahasiswa;
 import java.util.List;
 
 public interface MahasiswaController {
