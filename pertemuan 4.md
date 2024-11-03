@@ -462,7 +462,7 @@ Buatlah sebuah file bernama `hibernate.cfg.xml` pada src -> main -> resources (k
         <property name="hibernate.hbm2ddl.auto">update</property>
 
         <!-- Mapping class -->
-        <mapping class="org.mahasiswa.model.ModelMahasiswa"/>
+        <mapping class="com.mahasiswa.model.ModelMahasiswa"/>
     </session-factory>
 </hibernate-configuration>
 
