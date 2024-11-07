@@ -295,6 +295,7 @@ Kita buat view pada `com.mahasiswa.view` ->
  2. Buat button Simpan dan Refresh
  3. Ganti nama Variabel (namaField, npmField, ipkField, semesterField, refreshButton, simpanButton)
  4. tambahin JTable -> variabel = dataTable
+ 5. pada source,buatlah setter getter untuk namaField, npmField, ipkField, semesterField
 MahasiswaView adalah JFrameForm, pada file MahasiswaView buatlah design seperti ini
 
 ![MahasiswaView](https://drive.google.com/uc?id=1nr-kLWcUvH1rQWyhg83MDxcQmzv38CK5)
